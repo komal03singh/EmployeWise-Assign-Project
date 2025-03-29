@@ -1,8 +1,8 @@
 # EmployeWise-Assign-Project
-=======
+
 # React + Vite
 
-This project is a web application developed using React and Vite, designed to edit or delete a user from the user list.
+This project is a web application developed using React and Vite, designed to edit or delete a user from the user list, as an assignment for the EmployeWise Internship opportunity.
 
 ## Prerequisites
 
