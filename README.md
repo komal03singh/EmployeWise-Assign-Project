@@ -1,16 +1,28 @@
-<<<<<<< HEAD
 # EmployeWise-Assign-Project
 =======
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web application developed using React and Vite, designed to edit or delete a user from the user list.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before you begin, ensure you have the following installed on your system:
 
-## Expanding the ESLint configuration
+- [Node.js](https://nodejs.org/en/download/) (version 14 or higher)
+- [npm](https://www.npmjs.com/get-npm) (comes with Node.js)
+- install tailwind CSS (https://tailwindcss.com/docs/installation/using-vite)
+- [install required dependencies] (npm i react-router-dom axios)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 0936ec3 (final commit)
+## Run the Project
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/komal03singh/EmployeWise-Assign-Project.git
+2. Navigate to the folder and run
+   <-Navigate->
+   cd EmployeWise-Assign-Pro
+   <-Run->
+   npm run dev
