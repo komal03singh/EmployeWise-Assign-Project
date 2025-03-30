@@ -2,7 +2,11 @@
 
 # React + Vite
 
-This project is a web application developed using React and Vite, designed to edit or delete a user from the user list, as an assignment for the EmployeWise Internship opportunity.
+This project is a web application developed using React and Vite, designed to edit or delete a user from the user list, as an assignment for the EmployeWise Internship opportunity.c
+
+##Live link of Project 
+
+- https://employe-wise-assign-project.vercel.app/
 
 ## Prerequisites
 
@@ -26,3 +30,4 @@ Follow these steps to set up the project locally:
    cd EmployeWise-Assign-Pro
    <-Run->
    npm run dev
+
